@@ -2,7 +2,6 @@
 
 Добро пожаловать в мой профиль,можешь тут посмотреть на мои проекты и почитать информацию.
 - Я програмирую на JavaScript.
-- Параллельно являюсь модератором на [BotiCord.top](https://boticord.top)
 - Разработчиком на [CarlosBot](https://discord.gg/SEPY7WuKV8), [KartosBot](https://discord.gg/fGurm5CdKV)
 
 + **Изучаемые языки и инструменты:**
