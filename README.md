@@ -39,17 +39,10 @@ I love creating innovative solutions, from **interactive Discord bots** to **ful
 
 ---
 
-## 📈 GitHub Stats
-![My GitHub stats](https://github-readme-stats.vercel.app/api?username=GamesTwoLife&show_icons=true&theme=radical)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GamesTwoLife&layout=compact&theme=radical)
-
----
-
 ## 📫 Contact Me
 
-[![Discord](https://img.shields.io/badge/Discord-7289DA?style=flat-square&logo=discord&logoColor=white)](https://discord.com/users/713064369705189446)
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=flat-square&logo=telegram&logoColor=white)](https://t.me/k0ttyyy)
+[![Discord](https://img.shields.io/badge/Discord-7289DA?style=flat-square&logo=discord&logoColor=white)](https://discord.com/users/863773755687698464)
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=flat-square&logo=telegram&logoColor=white)](https://t.me/PohodTurist)
 <!-- [![Website](https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=vercel&logoColor=white)](https://your-website.com) -->
 
 Let's build something amazing together! 🚀
